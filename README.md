@@ -12,10 +12,6 @@ Welcome to the Tic Tac Toe App repository! This Flutter application provides a c
   
 - **GitHub Repository:** The codebase of the Tic Tac Toe App is available on GitHub for exploration and contributions.
 
-## Screenshots
-
-Include screenshots or gifs showcasing the UI and gameplay of your Tic Tac Toe App.
-
 ## Getting Started
 
 To run the Tic Tac Toe App on your local machine, follow these steps:
