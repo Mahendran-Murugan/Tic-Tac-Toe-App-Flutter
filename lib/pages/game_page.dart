@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:tictactoe/constants/colors.dart';
 
@@ -317,5 +316,6 @@ class _GamePageState extends State<GamePage> {
     });
     filledBoxs = 0;
     isWon = false;
+    player1Turn = true;
   }
 }
